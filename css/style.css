@@ -1,0 +1,53 @@
+/* Ejemplo de position html */
+
+
+/* Posicion static */
+
+.myDiv {
+    position: static;
+    width: 100px;
+    height: 100px;
+    background: red;
+    left: 10px;
+    top: 500px;
+}
+
+
+/* .myDiv {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: blue;
+    left: 10px;
+    top: 100px;
+} */
+
+
+/* 
+.myDiv {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 255, 21);
+    left: 10px;
+    top: 100px;
+} */
+
+
+/* .myDiv {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: rgb(238, 255, 0);
+    left: 10px;
+    top: 100px;
+} */
+
+.initial {
+    position: initial;
+    width: 100px;
+    height: 100px;
+    background: rgb(255, 0, 149);
+    left: 10px;
+    top: 100px;
+}
